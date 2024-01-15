@@ -1,0 +1,8 @@
+# Ignore Django database file
+db.sqlite3
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore Django migration files
+myapp/migrations/
