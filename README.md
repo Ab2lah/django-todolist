@@ -56,4 +56,9 @@ Welcome to the Django Todo List web app! This project is a simple task managemen
 - Add, view, and delete tasks from the task list.
 - Click on a task to view detailed information.
 
+![Login Page](myapp/screenshots/Login.png)
+![Login Page](myapp/screenshots/Register.png)
+![Task List](myapp/screenshots/Task-list.png)
+![Task Details](myapp/screenshots/Task-delete.png)
+![Task Details](myapp/screenshots/Task-form.png)
 
